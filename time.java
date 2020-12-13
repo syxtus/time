@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.gameevent.TickEvent;
 
 import static syxtus.time.Time.TimeConfig.*;
 
-@Mod(modid="time", name="Time", version = "1.0.0", acceptedMinecraftVersions = "1.16", acceptableRemoteVersions = "*")
+@Mod(modid="time", name="Time", version = "0.0.1", acceptedMinecraftVersions = "1.12", acceptableRemoteVersions = "*")
 @Mod.EventBusSubscriber
 public class Time {
     @SubscribeEvent
