@@ -1,2 +1,0 @@
-- name: action-forge-publish
-  uses: barnumbirr/action-forge-publish@v2.3.0
